@@ -844,4 +844,4 @@ specifiers:
   discord.js: ^11.4.2
   express: 4.16.3
   ffmpeg-binaries: ^4.0.0
-  node-opus: ^0.3.1
+  node-opus: ^0.3.1 
