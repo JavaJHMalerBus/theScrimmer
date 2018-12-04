@@ -1,4 +1,4 @@
-function equalsIgnoreCase(var original, var n)
+function equalsIgnoreCase(original, n)
 {
  return original.toLowerCase() === n; 
 }
