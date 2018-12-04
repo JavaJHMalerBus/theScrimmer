@@ -1,3 +1,6 @@
+/*
+ * (C) 2018 J. Heuschen
+ */
 const Discord = require("discord.js");
 const client = new Discord.Client();
 
